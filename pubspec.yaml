@@ -1,0 +1,27 @@
+name: chalkcrew
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  table_calendar: ^3.0.9
+  intl: ^0.20.2
+  geolocator: ^10.1.0
+  firebase_core: ^2.30.0        # ✅ Firebase 초기화 필수
+  firebase_auth: ^4.17.0        # ✅ 이메일/비밀번호 로그인용
+  cloud_firestore: ^4.17.5
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829242743692",
+    "project_id": "chalkcrew-52c0f",
+    "storage_bucket": "chalkcrew-52c0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829242743692:android:5f53e5aee55cc22dd694a9",
+        "android_client_info": {
+          "package_name": "com.example.chalkcrew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB56P3wpqnU3vfX_x_Grdfw8BpMPqXqImg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

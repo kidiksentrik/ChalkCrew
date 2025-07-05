@@ -1,0 +1,10 @@
+# Flutter/Dart stuff
+.dart_tool/
+.packages
+build/
+.idea/
+.vscode/
+pubspec.lock
+
+# Firebase sensitive config (if any)
+firebase_options.dart
