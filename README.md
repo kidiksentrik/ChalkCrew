@@ -1,6 +1,6 @@
 # chalkcrew
 
-A new Flutter project.
+Flutter project application regarding attendance check with community function.
 
 ## Getting Started
 
